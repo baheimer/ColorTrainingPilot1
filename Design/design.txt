@@ -1,0 +1,38 @@
+INTRODUCTION PAGE
+  - Summarize what signing consent form means, include link to consent form (see Judy's example)
+  - Box to check "yes I agree"
+    - Must have clicked to continue
+  - Basic Information
+    - First language, text answer
+    - Did you speak only English at age 5?, yes/no
+    - Did you live in the United States from birth until age thirteen or later?, yes/no
+    - What is your gender?, male/female
+    - What is your age? text answer
+    - How many years of education have you had? text answer
+    - Must fill out all answers to continue to next page
+    - Must have number for age/edu, and non-number for lang
+  - "Continuing with the survey indicates your consent to participate."
+  - "Click here to proceed"
+    - Error message if something not filled out correctly
+
+TASK INSTRUCTIONS
+  - "In this task, you're going to hear a story about a made up land and the creatures that live there.
+  - You will hear a chunk of the story on each screen. Once you get to the end of the story, you will be asked
+  - a series of questions about what you heard. Please listen closely to the story."
+  - "Press any key to begin."
+  
+STORY PAGES
+  - Each page will look the same:
+  - Audio will start as soon as the page loads
+  - Once audio finishes, message appears that reads "Press any key to continue"
+  - Keep repeating this until end of story
+  
+QUESTION PAGES
+  - Each page will look similar
+  - Questions about an individual dragon will all go on one page
+    - These should be asked in a RANDOM order
+  - Global questions will go at the end? At the beginning?
+  
+EXIT PAGE
+  - Thank you for participating
+  - Unique ID stuff for mTurk? Look back at Judy's
